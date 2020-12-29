@@ -1,6 +1,6 @@
-本来这个文件下下面应该有
-deep_clustering_only.pkl
-deepclustering_with_SSL.pkl
+本来这个文件夹下面应该有
+deep_clustering_only.pkl \n
+deepclustering_with_SSL.pkl \n
 null_model.pkl
 SSL_only.pkl
 四个模型，但是它们有点大，接近半个G，传的时候老报错，就省略不传了吧！
